@@ -1,0 +1,3 @@
+import pandas as pd
+
+data = pd.read_csv('/sample_data/wine-ratings-small.csv')
